@@ -1,0 +1,22 @@
+# gestor: Será el gestor por defecto en el proyecto
+# sus valores pueden ser: Mysql, Postgres, None
+gestor = Mysql
+
+# Usuario para la conexión a la base de datos (Si gesto = None se omitirá)
+user = root
+
+# password para la conexión a la base de datos (Si gesto = None se omitirá)
+password = m15cuy1t0s
+
+# base de datos
+base_de_datos = horarios
+
+# direccion del host
+host = localhost
+
+# puerto (mysql default 3306
+puerto = 3306
+
+
+# tipo de archivo (txt/excel/sql) {excel}
+# nombre del archivo {BaseDeDatosGolgari.xslx}

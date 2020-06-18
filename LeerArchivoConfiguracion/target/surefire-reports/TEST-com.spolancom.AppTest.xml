@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.spolancom.AppTest" time="0.277" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="13"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/raziel/IdeaProjects/LeerArchivoConfiguracion/target/test-classes:/home/raziel/IdeaProjects/LeerArchivoConfiguracion/target/classes:/home/raziel/.m2/repository/com/spolancom/LoctorDeArchivosTxt/1.0-SNAPSHOT/LoctorDeArchivosTxt-1.0-SNAPSHOT.jar:/home/raziel/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/raziel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="13"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="MX"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-13-openjdk/lib"/>
+    <property name="sun.java.command" value="/home/raziel/IdeaProjects/LeerArchivoConfiguracion/target/surefire/surefirebooter15888694251329446567.jar /home/raziel/IdeaProjects/LeerArchivoConfiguracion/target/surefire 2020-06-18T12-39-15_341-jvmRun1 surefire14614640485064035921tmp surefire_05499347128739323834tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/raziel/IdeaProjects/LeerArchivoConfiguracion/target/test-classes:/home/raziel/IdeaProjects/LeerArchivoConfiguracion/target/classes:/home/raziel/.m2/repository/com/spolancom/LoctorDeArchivosTxt/1.0-SNAPSHOT/LoctorDeArchivosTxt-1.0-SNAPSHOT.jar:/home/raziel/.m2/repository/junit/junit/4.12/junit-4.12.jar:/home/raziel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/raziel"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-01-14"/>
+    <property name="java.home" value="/usr/lib/jvm/java-13-openjdk"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/raziel/IdeaProjects/LeerArchivoConfiguracion"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="idea.version2020.1.2" value="true"/>
+    <property name="surefire.real.class.path" value="/home/raziel/IdeaProjects/LeerArchivoConfiguracion/target/surefire/surefirebooter15888694251329446567.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="13.0.2+8"/>
+    <property name="user.name" value="raziel"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.7.2-arch1-1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/raziel/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="13.0.2"/>
+    <property name="user.dir" value="/home/raziel/IdeaProjects/LeerArchivoConfiguracion"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="N/A"/>
+    <property name="java.vm.version" value="13.0.2+8"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="57.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.spolancom.AppTest" time="0.007"/>
+</testsuite>

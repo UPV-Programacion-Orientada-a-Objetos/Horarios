@@ -1,0 +1,8 @@
+# ruta de la carpeta de los archivos
+ruta = /home/miusar/documentos/archivos
+
+# usuario de la base de datos
+user_db = root
+
+# password
+password_db = algo

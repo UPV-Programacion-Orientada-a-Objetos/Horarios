@@ -1,0 +1,5 @@
+com/spolancom/DataBase/Mysql/ConnectToMysql.class
+com/spolancom/DataBase/SQLite/ConnectToSQLite.class
+com/spolancom/App.class
+com/spolancom/DataBase/ConnectionDBs.class
+com/spolancom/DataBase/Postgres/ConnectToPostgres.class
