@@ -1,9 +1,13 @@
 # gestor: Será el gestor por defecto en el proyecto
 # sus valores pueden ser: Mysql, Postgres, None
-gestor = Mysql
+gestor = None
+
+# si gestor = None entonces se debe configurar una ruta para el archivo temporal
+ruta_temporal_db = /home/raziel/IdeaProjects/Horarios/Horarios/src/main/resources/mydatabase.db
 
 # Usuario para la conexión a la base de datos (Si gesto = None se omitirá)
-user = root
+usuario = poo_student
+# usuario = root
 
 # password para la conexión a la base de datos (Si gesto = None se omitirá)
 password = m15cuy1t0s
@@ -17,6 +21,9 @@ host = localhost
 # puerto (mysql default 3306
 puerto = 3306
 
+# Tipo de archivo a leer
+# sus valores pueden ser: excel, txt
+tipo_de_archivos = txt
 
-# tipo de archivo (txt/excel/sql) {excel}
-# nombre del archivo {BaseDeDatosGolgari.xslx}
+# ruta donde se localizan los archivos
+ruta_archivos = /tmp

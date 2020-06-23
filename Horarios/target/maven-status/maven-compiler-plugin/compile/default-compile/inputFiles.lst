@@ -1,1 +1,10 @@
-/home/raziel/IdeaProjects/Horarios/src/main/java/com/spolancom/App.java
+/home/raziel/IdeaProjects/Horarios/Horarios/src/main/java/com/spolancom/DataBase/ConnectionDBs.java
+/home/raziel/IdeaProjects/Horarios/Horarios/src/main/java/com/spolancom/DataBase/BaseDeDatosExceptions/ConexionFallidaException.java
+/home/raziel/IdeaProjects/Horarios/Horarios/src/main/java/com/spolancom/Archivos/TipoDeArchivosValidos.java
+/home/raziel/IdeaProjects/Horarios/Horarios/src/main/java/com/spolancom/DataBase/Gestores.java
+/home/raziel/IdeaProjects/Horarios/Horarios/src/main/java/com/spolancom/DataBase/Postgres/ConnectToPostgres.java
+/home/raziel/IdeaProjects/Horarios/Horarios/src/main/java/com/spolancom/DataBase/Mysql/ConnectToMysql.java
+/home/raziel/IdeaProjects/Horarios/Horarios/src/main/java/com/spolancom/DataBase/SQLite/ConnectToSQLite.java
+/home/raziel/IdeaProjects/Horarios/Horarios/src/main/java/com/spolancom/DataBase/ConexionBaseDeDatos.java
+/home/raziel/IdeaProjects/Horarios/Horarios/src/main/java/com/spolancom/App.java
+/home/raziel/IdeaProjects/Horarios/Horarios/src/main/java/com/spolancom/HorariosConfiguracion.java

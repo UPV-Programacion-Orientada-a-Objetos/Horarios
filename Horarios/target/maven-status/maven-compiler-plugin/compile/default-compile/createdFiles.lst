@@ -1,5 +1,12 @@
 com/spolancom/DataBase/Mysql/ConnectToMysql.class
 com/spolancom/DataBase/SQLite/ConnectToSQLite.class
+com/spolancom/DataBase/Gestores.class
 com/spolancom/App.class
 com/spolancom/DataBase/ConnectionDBs.class
 com/spolancom/DataBase/Postgres/ConnectToPostgres.class
+com/spolancom/DataBase/ConexionBaseDeDatos.class
+com/spolancom/DataBase/BaseDeDatosExceptions/ConexionFallidaException.class
+com/spolancom/HorariosConfiguracion.class
+com/spolancom/Archivos/TipoDeArchivosValidos.class
+com/spolancom/HorariosConfiguracion$1.class
+com/spolancom/DataBase/ConexionBaseDeDatos$1.class
